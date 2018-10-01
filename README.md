@@ -9,4 +9,4 @@ The Details component fetches additional information and displays it when the 'm
 
 The youtube component was going to fetch the trailers for movies via the youtube api, however this could not be completed in time.
 
-![screenshot of app](https://image.ibb.co/frM5eK/Screen_Shot_2018_10_01_at_08_42_21.png")
+![screenshot of app](https://image.ibb.co/frM5eK/Screen_Shot_2018_10_01_at_08_42_21.png)
